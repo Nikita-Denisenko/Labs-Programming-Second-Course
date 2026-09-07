@@ -1,0 +1,32 @@
+# Visual Studio
+.vs/
+
+# Build folders
+**/Debug/
+**/Release/
+**/x64/
+**/x86/
+
+# Generated files
+*.user
+*.suo
+*.vcxproj.user
+*.obj
+*.pdb
+*.ilk
+*.tlog
+*.idb
+*.ipch
+*.recipe
+*.log
+
+# C++ binaries
+*.exe
+*.dll
+*.lib
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
